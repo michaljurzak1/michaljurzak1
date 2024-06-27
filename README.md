@@ -14,7 +14,7 @@ I am Michał, a third year Computational Engineering student at AGH University o
   - [ResNet18 Fine Tuning](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab5/readme.md)
   - [UNet Implmentation](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab6/readme.md)
   - [Autoencoder Implmentation](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab8/readme.md)
-- :earth_africa: [Rwanda CO2 emission prediction]() (w/ [Mikołaj Hojda](https://github.com/mikolajhojda), [Eryk Mikołajek](https://github.com/ErykMikolajek))
+- :earth_africa: [Rwanda CO2 emission prediction](https://github.com/michaljurzak1/kaggle_notebooks/blob/main/Rwanda-CO2-predictions.ipynb) (w/ [Mikołaj Hojda](https://github.com/mikolajhojda), [Eryk Mikołajek](https://github.com/ErykMikolajek))
 - :blue_car: [Otomoto car price analysis](https://github.com/michaljurzak1/kaggle_notebooks/blob/main/car_assessment_otomoto.ipynb) (w/ [Albert Dańko](https://github.com/Dankosztaw), [Jakub Ficek](https://github.com/JakubFicek))
 - :chess_pawn: [Chess winner classifier using Machine Learning](https://github.com/michaljurzak1/kaggle_notebooks/blob/main/chess-winner-classifier.ipynb)
 - :1234: :tshirt: [MNIST and Fashion MNIST with Keras](https://github.com/michaljurzak1/ML-learning-repository)
