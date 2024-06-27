@@ -1,16 +1,16 @@
-## Hi there 👋
+# :fire: Hello! 
 
-<!--
-**michaljurzak1/michaljurzak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Michał, a third year Computational Engineering student at AGH University of Science and Technology in Cracow, PL.
 
-Here are some ideas to get you started:
+- :star: I am interested in Data Science - Machine and Deep Learning are my areas of choice.
+- :technologist: I am currently working on different projects related to Data Science.
+- :swimmer: In my free time I love doing sports - in particular swimming or playing tennis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :sparkles: Some of my projects:
+
+## **Data Science**
+- [Vehicle images detection using YOLO](https://github.com/michaljurzak1/Vehicle-Images-Detection)
+- [Deep Learning in Medical Image Analysis AGH Course](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis)
+  - [ResNet18 Fine Tuning](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab5/readme.md)
+  - [UNet Implmentation](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab6/readme.md)
+  - [Autoencoder Implmentation](https://github.com/michaljurzak1/Deep-Learning-In-Medical-Image-Analysis/blob/main/lab8/readme.md)
