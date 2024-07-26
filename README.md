@@ -20,6 +20,7 @@ I am Michał, a third year Computational Engineering student at AGH University o
 - :1234: :tshirt: [MNIST and Fashion MNIST with Keras](https://github.com/michaljurzak1/ML-learning-repository)
 
 ## **Software projects**
+- :card_index_dividers: [VAT taxpayers checker in C# from official .gov flat file](https://github.com/michaljurzak1/FlatFileChecker)
 - :student: [Students register with JavaFX and PostreSQL](https://github.com/michaljurzak1/students_register)
 - :red_car: [Car renting website with Typescript, React and PostgreSQL](https://github.com/JakubFicek/wyp-samochodow) (w/ [Jakub Ficek](https://github.com/JakubFicek))
 - :ocean: [Fluid simulation using Lattice Boltzmann Method (LBM)](https://github.com/michaljurzak1/LBM-fluid-python)
